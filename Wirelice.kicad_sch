@@ -3635,22 +3635,9 @@
     )
   )
 
-  (sheet (at 92.71 143.51) (size 72.39 37.465) (fields_autoplaced)
-    (stroke (width 0.0006) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236)
-    (property "Sheet name" "Underglow" (id 0) (at 92.71 142.8743 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "Underglow.kicad_sch" (id 1) (at 92.71 181.4837 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
     (path "/3738995a-4258-4edd-9202-963ed7000583/" (page " "))
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/" (page " "))
   )
 
   (symbol_instances
@@ -4229,123 +4216,6 @@
     )
     (path "/3738995a-4258-4edd-9202-963ed7000583/e7d4a641-923b-4ae1-a13f-0cf2655579f0"
       (reference "MX73") (unit 1) (value "2uLSpace") (footprint "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/71307b41-dd54-4756-824b-e54f4ce13d95"
-      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/130f2382-5b65-4caa-b256-b006b28ec9f7"
-      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/77944356-941c-43b4-8360-871cc64c58a9"
-      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/80c33b0b-7ae5-4bc4-b7b0-2f004d572cbe"
-      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/d3cc8a69-76e7-4359-a12c-02b6c46dfd43"
-      (reference "#PWR0115") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/a9c4fa3c-6ff4-4989-bbee-3ed2618404e7"
-      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/37a182af-9249-41b9-8b6e-94600341b3c6"
-      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/c6a189ae-3cff-4eb4-8aa1-905cd1f101b0"
-      (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/91c9aa05-7792-4285-923b-4f2773c2ef27"
-      (reference "C3") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/94a8449f-95c1-448f-aefc-7914848110ca"
-      (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/e7fdcccb-f287-438a-8219-8edc6fa5fdae"
-      (reference "C5") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/080e36ac-bcf5-4676-a6df-991d69735f0a"
-      (reference "C6") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/0f94d603-6f20-439f-aec5-d721a17e461e"
-      (reference "C7") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/f911fe44-a4bc-4143-952b-b5fc4b259df5"
-      (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/6c3ee1c2-a450-47e3-9158-9069ff81930b"
-      (reference "C9") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/ddea06a0-460c-4854-8c71-634840b7ba20"
-      (reference "C10") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/c1ed69fe-774d-4453-adae-83a2a5e69149"
-      (reference "C13") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/798777e0-ef29-4295-b425-d9554ff2be26"
-      (reference "C15") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/49af69f5-7acd-43f7-aa72-9341def5dd0e"
-      (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/1c48e722-1c92-4031-887a-d68c6dcabf98"
-      (reference "C17") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/db3e763b-48b9-4819-a27d-459216cca55e"
-      (reference "D2") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/81b73469-fd17-4134-9bf9-7d3028d331b3"
-      (reference "D3") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/79dc0279-dc74-447c-adf2-122886d4f75a"
-      (reference "D4") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/6615dd8e-8498-45a2-adc7-bf326b4f0894"
-      (reference "D5") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/fb397c04-1d8d-493f-8032-7ba22c865701"
-      (reference "D6") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/213f276a-b576-418b-b886-206d5299ae1d"
-      (reference "D7") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/51f99943-e697-482e-a89c-f66d32f100c9"
-      (reference "D8") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/4418a6b3-50ec-45d7-b4d5-ba031ec06c51"
-      (reference "D9") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/73dd11d8-b425-48bc-afcd-83cf4a22ec21"
-      (reference "D10") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/862f6c80-dc0e-4ddd-bdca-86841150c616"
-      (reference "D11") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/e6184029-a648-4699-b52a-d9d5e19b44d4"
-      (reference "D12") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/f661792e-ba69-48d5-9fa5-f9e5fd74d142"
-      (reference "D13") (unit 1) (value "SK6812MINI") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/b5ce496e-faa5-4870-8b70-f624781e4f71"
-      (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/155a01ab-f14f-4490-8bff-8f322ffec1b6"
-      (reference "Q2") (unit 1) (value "AO3401A") (footprint "Package_TO_SOT_SMD:SOT-23")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/3447faa2-2e84-4f4a-afbb-061dcd2cc244"
-      (reference "R6") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/08a595d9-d7a5-4e7b-9253-f41471203e94"
-      (reference "R9") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/14a6b1b2-bb29-4b57-8020-1ff102095e1f"
-      (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/d44d3f82-55de-4957-ad2e-42e1d66a95e6"
-      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/aa7af192-2f2d-4ff7-9fb0-e8b87c3f1236/2f8ecbda-589d-4e77-8204-93ff67839d48"
-      (reference "U7") (unit 1) (value "TXS0101") (footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6")
     )
   )
 )
