@@ -323,7 +323,7 @@
   (gr_arc (start 385.660277 106.813669) (end 388.160277 106.813669) (angle -90) (layer "Edge.Cuts") (width 0.2) (tstamp e79d9b31-518e-496b-8d3f-9943aea1298a))
   (gr_line (start 312.695709 213.186488) (end 230.718408 230.611301) (layer "Edge.Cuts") (width 0.2) (tstamp f96405c0-eb9c-49be-8d4f-ecf31e9142cd))
   (gr_text "(This side goes down)" (at 219.86875 161.925) (layer "B.SilkS") (tstamp 430079df-9e07-4422-abd6-690ffb4a75c6)
-    (effects (font (size 1 1) (thickness 0.2) italic) (justify mirror))
+    (effects (font (size 3 3) (thickness 0.6) italic) (justify mirror))
   )
   (gr_text "FRONT\n\nTOWARD ENEMY" (at 220.6625 162.71875) (layer "B.SilkS") (tstamp ff3a9341-1d40-4300-85ac-787b46f3b0bf)
     (effects (font (size 12.5 12.5) (thickness 2.25)) (justify mirror))
